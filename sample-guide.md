@@ -7,7 +7,7 @@ Here's a nice link to [Github Desktop](https://desktop.github.com/)
 
 Here is a sample line of Python:
 ```Python
-import lib
-num = 10
-  print num
+# This code prints out something very important.
+for i in range(10):
+  print("Github will make me unstoppable.")
 ```
